@@ -1,0 +1,8 @@
+2021-03-16 17:29:29.728 [main] INFO  calculator.Calculator - [FACTORIAL] - 5.0
+2021-03-16 17:29:29.736 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2021-03-16 17:29:40.765 [main] INFO  calculator.Calculator - [SQ ROOT] - 9.0
+2021-03-16 17:29:40.766 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 3.0
+2021-03-16 17:29:49.693 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-16 17:29:49.694 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-16 17:30:00.170 [main] INFO  calculator.Calculator - [NATURAL LOG] - 5.0
+2021-03-16 17:30:00.172 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.6094379124341003
