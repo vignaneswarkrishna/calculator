@@ -4,7 +4,7 @@
   tasks:
     - name: Pull vignaneswarkrishna/miniproject/calculator
       docker_image:
-        name: vignaneswarkrishna/miniproject
+        name: vignaneswarkrishna/miniproject:latest
         source: pull
 #    - name: Copy jar file to home directory
 #      copy:
